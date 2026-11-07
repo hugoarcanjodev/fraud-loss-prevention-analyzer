@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Banco de Dados Local (Gerado via script)
+*.db
+data/fraud_analytics.db
+
+# Configurações de IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
